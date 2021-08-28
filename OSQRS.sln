@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OSQRS", "OSQRS.csproj", "{1FABDC34-B37E-472C-A2C7-F7C459A9451F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FABDC34-B37E-472C-A2C7-F7C459A9451F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FABDC34-B37E-472C-A2C7-F7C459A9451F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FABDC34-B37E-472C-A2C7-F7C459A9451F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FABDC34-B37E-472C-A2C7-F7C459A9451F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {74DE78A5-01CD-449E-8217-208F8C0684EB}
+	EndGlobalSection
+EndGlobal
